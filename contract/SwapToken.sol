@@ -23,17 +23,17 @@ contract DEX {
 
     event Bought(uint amount);
     //event Sold(uint amount);
-
-   // 1 wei Basecoin to 100 wei token
+ // 1 wei Basecoin to 100 wei token
     uint public Rate=100;
 
 
     address public  ContractOwner;
     IERC20 public token;
 
-    constructor(address TokenAddress) { 
+    constructor(address TokenAddress,uint _rate) { 
            token = IERC20(TokenAddress);
            ContractOwner=msg.sender;
+           Rate=_rate;
     }
 
 
@@ -43,7 +43,7 @@ contract DEX {
     }
 
 
-    function buy() payable public {
+    function EtherToToken() payable public {
         uint UserSendEther = msg.value;
         uint UserGetToken=UserSendEther * Rate;
         uint dexBalance = token.balanceOf(address(this));
@@ -83,4 +83,3 @@ contract DEX {
     }
 */
 }
-
