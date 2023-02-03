@@ -1,6 +1,12 @@
 # Ether-To-Token
-Ether To Token,Swap your token with a fixed crypto amount.
+Ether To Token,Swap Basecoin to your token.
 
+This project is compatible with all the Ethereum-like blockchain,for example:Ethereum,Binance,Polygon..... check support list:
+https://cryptodapprun.github.io/Blockchain-To-Metamask/
+
+
+
+Moon token deployed to:
 Binance network<br>
 
 <img src="https://github.com/CryptoDappRun/MoonSwap/blob/main/img/56.png" width="25" height="25" alt="matic"> 
