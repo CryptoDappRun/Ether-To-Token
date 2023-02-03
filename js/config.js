@@ -3,14 +3,11 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-var UseContractAddress= "";
-
-
-var BasecoinName= "Matic";
+var BasecoinName= "BNB";
 var TokenName="Moon"
 
-var ChainID= 137;
-var ChainName= "Polygon";
-var BlockchainScanURL="https://polygonscan.com/tx/";
-var contractAdress="0xfDa8D39D17719Ef97838A8817E9e52C7D9CD1525"
-var TokenAddress  ="0x0f2b6b46b10f4fe0cb7b944141d0f9593fed9989"
+var ChainID= 56;
+var ChainName= "Binance";
+var BlockchainScanURL="https://bscscan.com/tx/";
+var contractAdress="0xD32F1544c36D0942De599Bb1c8b36F940e2f9853"
+var TokenAddress  ="0x0F6FC13d26EeA45d3cdA81bCBcb0b7bE711BA3fE"
