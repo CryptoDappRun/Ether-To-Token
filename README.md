@@ -22,6 +22,7 @@ Binance network<br>
 
 
 ## Install as your own token sale platform
+First make sure the metamask plugin is installed
 
 ### modify js/config.js.
 #### 1.Specify your token address
