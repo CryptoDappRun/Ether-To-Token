@@ -24,6 +24,7 @@ contract DEX {
     event Bought(uint amount);
     //event Sold(uint amount);
 
+   // 1 wei Basecoin to 100 wei token
     uint public Rate=100;
 
 
