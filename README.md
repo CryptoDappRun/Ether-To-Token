@@ -1,7 +1,7 @@
 # Ether-To-Token
-Swap Basecoin to your token.
+Swap Basecoin to your token. 
 
-This project is compatible with all the Ethereum-like blockchain,for example:Ethereum,Binance,Polygon..... check support list:
+This project is compatible with all the Ethereum-like blockchain,for example:Ethereum,Binance,Polygon..... check support blockchains list:
 https://cryptodapprun.github.io/Blockchain-To-Metamask/
 
 
