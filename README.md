@@ -1,5 +1,5 @@
 # Ether-To-Token
-Swap Basecoin(ETH/BNB/Matic/CRO....) to your token.
+Swap Basecoin(ETH/BNB/Matic/CRO....) to your token with customized token price.
 
 This project is compatible with all the Ethereum-like blockchain,for example:Ethereum,Binance,Polygon..... check support blockchains list:
 https://cryptodapprun.github.io/Blockchain-To-Metamask/
