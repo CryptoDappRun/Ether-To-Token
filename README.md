@@ -33,3 +33,7 @@ First make sure the metamask plugin is installed
 <br><br><br><br>
 ## Create your token:
 https://github.com/CryptoDappRun/Token-Factory
+
+
+<br><br>
+***Tips: After deployed SwapToken.sol,you need send some your tokens to this contract address ,otherwise, the exchange don't have token send to trader.***
