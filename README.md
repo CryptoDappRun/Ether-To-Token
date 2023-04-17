@@ -9,7 +9,7 @@ https://cryptodapprun.github.io/Blockchain-To-Metamask/
 Moon token deployed to:
 Binance network<br>
 
-<img src="https://github.com/CryptoDappRun/MoonSwap/blob/main/img/56.png" width="25" height="25" alt="matic"> 
+<img src="img/56.png" width="25" height="25" alt="matic"> 
 
  
 <br>
@@ -17,7 +17,7 @@ Binance network<br>
 
 
 
-<img src="https://github.com/CryptoDappRun/Ether-To-Token/blob/main/screen.png"  >
+<img src="screen.png"  >
 
 
 
